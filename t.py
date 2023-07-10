@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title='Mystreamlit',page_icon='shark')
 mymenu=st.sidebar.selectbox('My Menu',('Home','FillForm','Downloads'))
-st.image('Onlei.png')
+st.image('https://onleitechnologies.com/wp-content/uploads/2021/12/Untitled_design__6_-removebg-preview-1-150x84.png')
 st.title('Pyhton Course')
 st.header('Studied by Dipika Agrawall')
 st.text('This is a tutorial on Streamlit Library')
